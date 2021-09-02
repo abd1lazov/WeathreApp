@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather app</string>
+    <string name="name">Name</string>
+    <string name="City">Введите название города</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+    <string name="textview">TextView</string>
+
+</resources>
